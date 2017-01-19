@@ -2,6 +2,9 @@
 using namespace std;
 int main()
 {
-cout<<"\n Hello";
+char a[20];
+cout<<"\nEnter name";
+cin>>a;
+cout<<"\n Hello"<<a;
 }
 
